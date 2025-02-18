@@ -15,4 +15,8 @@ Dataset ini berisi 213 entri dengan 7 kolom, yaitu:
 6. year - Tahun publikasi dalam format numerik (integer), tidak ada nilai yang hilang.
 7. abstract - Abstrak dari referensi, tidak ada nilai yang hilang.
 
-Kemudian pada tugas ini saya hanya berfokus pada primary_title yang merupakan kolom berisi judul artikel
+Kemudian pada tugas ini saya hanya berfokus pada primary_title yang merupakan kolom berisi judul artikel. Pada kolum tersebut saya lakukan pre prosesing data yang dilanjutkan dengan proses parsing, proses tokenisasi, stopword, lemmatization, Perhitungan frekuensi kata yang sering muncul, bobot TF IDF, dan NER.
+
+Kemudian didapatkan hasil analisis akhir seperti berikut:
+![image](https://github.com/user-attachments/assets/86373cd3-ba0f-42bb-865e-3974471415a7)
+
